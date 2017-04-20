@@ -1,0 +1,47 @@
+[
+  {
+    "remote":     "github",
+    "repository": "rohit9757/android_device_samsung_k3gxx",
+    "target_path": "device/samsung/k3gxx",
+    "branch":     "cos"
+  },
+  {
+    "remote": "github",
+    "repository": "Exynos5422/android_vendor_samsung_k3gxx",
+    "target_path": "vendor/samsung/j5ltexx",
+    "branch": "cm-14.1"
+  }
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_samsung_slsi-cm_exynos",
+    "target_path": "hardware/samsung_slsi-cm/exynos",
+    "branch": "cm-14.1"
+  }
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_samsung_slsi-cm_exynos5",
+    "target_path": "hardware/samsung_slsi-cm/exynos5",
+    "branch": "cm-14.1"
+  }
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_samsung_slsi-cm_openmax",
+    "target_path": "hardware/samsung_slsi-cm/openmax",
+    "branch": "cm-14.1"
+  }
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_samsung_slsi-cm_exynos5422",
+    "target_path": "hardware/samsung_slsi-cm/exynos5422",
+    "branch": "cm-14.1"
+  }
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_apps_SamsungServiceMode",
+    "target_path": "packages/apps/SamsungServiceMode",
+    "branch": "cm-14.1"
+  }
+
+
+]
+
