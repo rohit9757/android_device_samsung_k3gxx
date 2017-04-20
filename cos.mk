@@ -22,3 +22,6 @@ TARGET_VENDOR := Samsung
 
 #magisk
 INCLUDE_MAGISK=true
+
+#BUILD_TYPE
+COS_RELEASE=true
