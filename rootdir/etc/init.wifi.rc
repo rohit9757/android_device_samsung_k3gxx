@@ -77,3 +77,4 @@ service macloader /system/bin/macloader
 on property:init.svc.macloader=stopped
     chown system root /data/.rev
     chmod 0664 /data/.rev
+
