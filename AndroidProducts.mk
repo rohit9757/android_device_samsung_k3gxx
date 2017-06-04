@@ -15,4 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-$(LOCAL_DIR)/cos.mk
+$(LOCAL_DIR)/aosp_k3gxx.mk
+
