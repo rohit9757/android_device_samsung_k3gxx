@@ -1,6 +1,3 @@
-# device specific syscalls
-clock_gettime: 1
-connect: 1
-fcntl: 1
-socket: 1
-writev: 1
+# for H/W Codec
+uname: 1
+getdents64: 1
